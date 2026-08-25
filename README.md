@@ -6,7 +6,7 @@ I'm a Second year Biomedical Engineering student at UCL, building towards a care
 
 ## Featured Projects
 
-### [Grip-Strength Monitoring Glove to track arthritis](link-to-repo)
+### [Grip-Strength Monitoring Glove To Track Arthritis](link-to-repo)
 A wearable glove that tracks grip strength and finger movement speed to monitor rheumatoid arthritis disease activity over time. Built on an Adafruit Circuit Playground Express with an FSR palm sensor and OLED display, featuring on-device calibration, and session history tracking.
 `Arduino` `C++` `Embedded Systems` `Hardware-Software Integration` `Healthcare Wearables`
 
