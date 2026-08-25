@@ -20,7 +20,7 @@ Group  project analysing an aluminium alloy prosthetic design under compressive 
 ### [Research: In Ear PPG Sensors](https://www.youtube.com/watch?v=91yCSh6PwfE)
 A research project exploring the photoplethysmography (PPG) sensors used for in-ear heart rate monitoring in AirPods Pro. Including how the optical sensing works, and why it matters for the wider medtech wearables space. Researched and produced as a YouTube video to communicate the technology to a general audience. `Biomedical Sensors` `PPG` `Wearable Health Tech` `Scientific Communication`
 
-### [Finite Element Analysis: Cantilever Beam & Femur Fracture Simulation](link-to-repo)
+### [Finite Element Analysis: Cantilever Beam & Femur Fracture Simulation](https://github.com/mahdifetanat/Femur-Bone-FEA)
 Two-part finite element analysis coursework in SolidWorks. First, a mesh-converged cantilever beam study comparing normal vs shear loading, validated against an analytical Euler-Bernoulli beam calculation. Second, a femur lateral-fall simulation using a real bone geometry, cortical bone material properties, and a physiologically calculated impact force. Results identified the femoral neck as the most likely fracture site, consistent with clinical hip fracture data.
 `SolidWorks` `Finite Element Analysis` `Biomechanics` `Structural Analysis`
 
