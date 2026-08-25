@@ -13,7 +13,7 @@ A wearable glove that tracks grip strength and finger movement speed to monitor 
 ### [AI Acne Detection & Tracking App](https://github.com/Mfet85/ACNotE)
 A team-built app that detects, classifies, and tracks six categories of acne from a webcam or uploaded image, letting users monitor severity over time and export reports. Combines a fine-tuned YOLOv2 detector for lesion localisation with a ResNet50 CNN for classification, wrapped in a multi-tab MATLAB App Designer GUI. `MATLAB` `YOLOv2` `ResNet50` `Computer Vision` `Machine Learning` `Healthcare AI`
 
-### [Materials Analysis: Aluminium behaviour under different conditions](link-to-repo)
+### [Materials Analysis: Aluminium behaviour under different conditions](https://github.com/mahdifetanat/Aluminium-Material-Analysis)
 Group  project analysing an aluminium alloy prosthetic design under compressive load using an Instron testing machine. Collected and processed the resulting stress-strain data, cross-checked it against SolidWorks FEA predictions, and presented findings as an interactive GitHub-hosted web report, and a poster which was presented to industry representatives.
 `Materials Testing` `Instron` `Data Analysis` `SolidWorks FEA` `Web Report`
 
